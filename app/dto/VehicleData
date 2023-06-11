@@ -1,0 +1,12 @@
+var result = [];
+var vehicleDetails = {
+"VehicleID":"",
+"VehicleMake":"",
+"VehicleModel":"",
+"VehicleState":""
+};
+
+module.exports= {
+    result,
+    vehicleDetails
+}
